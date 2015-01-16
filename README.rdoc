@@ -6,15 +6,18 @@
 
 == Description
 
-TODO: Description
+This gem extracts ActiveRecord::TestCase from Rails 4.2.0.
+As of Rails 4.1 this class is private and no longer distributed as part of Rails.
 
 == Features
 
 == Examples
 
-  require 'activerecord/testcase'
+  require 'active_record/test_case'
 
 == Requirements
+
+  activesupport
 
 == Install
 
@@ -22,6 +25,7 @@ TODO: Description
 
 == Copyright
 
-Copyright (c) 2015 Ilia Lobsanov
+Packaging of the gem:
+  Copyright (c) 2015 Ilia Lobsanov
 
 See LICENSE.txt for details.
