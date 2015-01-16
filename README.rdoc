@@ -1,0 +1,27 @@
+= activerecord-testcase
+
+* {Homepage}[https://rubygems.org/gems/activerecord-testcase]
+* {Documentation}[http://rubydoc.info/gems/activerecord-testcase/frames]
+* {Email}[mailto:ilia at nurey.com]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'activerecord/testcase'
+
+== Requirements
+
+== Install
+
+  $ gem install activerecord-testcase
+
+== Copyright
+
+Copyright (c) 2015 Ilia Lobsanov
+
+See LICENSE.txt for details.
